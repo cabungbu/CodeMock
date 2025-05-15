@@ -22,7 +22,7 @@ const SettingPage: NextPageWithLayout = () => {
           <ExperienceForm />
           <SkillForm user={user} />
         </Box>
-        <Box className={styles.rightContainer}>Bên phải</Box>
+        <Box className={styles.rightContainer}>Bên phải ne</Box>
       </Box>
     </ProtectedLayout>
   );
